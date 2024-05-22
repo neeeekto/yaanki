@@ -1,9 +1,0 @@
-{
-  "name": "yaanki-e2e",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/yaanki-e2e/src",
-  "tags": [],
-  "implicitDependencies": ["yaanki"],
-  "// targets": "to see all targets run: nx show project yaanki-e2e --web",
-  "targets": {}
-}
