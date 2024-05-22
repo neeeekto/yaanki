@@ -1,0 +1,9 @@
+{
+  "name": "yaanki",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/yaanki",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project yaanki --web",
+  "targets": {}
+}
